@@ -1,0 +1,25 @@
+{
+  "name": "display-faces",
+  "title": "Display Faces",
+  "version": "0.0.0",
+  "description": "A Thunderbird extension for displaying Face, X-Face, or X-Image-URL headers",
+  "main": "lib/main.js",
+  "id": "jid1-x8aiZytdYq1Ncg",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dearingj/thunderbird-display-faces.git"
+  },
+  "keywords": [
+    "Face",
+    "X-Face",
+    "X-Image-URL"
+  ],
+  "author": "James Dearing",
+  "license": "CC0 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/dearingj/thunderbird-display-faces/issues"
+  }
+}
